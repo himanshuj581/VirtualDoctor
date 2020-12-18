@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "629344477299",
+    "project_id": "virtual-doctor-6bae2",
+    "storage_bucket": "virtual-doctor-6bae2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629344477299:android:6247205a8a8500c9314a06",
+        "android_client_info": {
+          "package_name": "com.example.VirtualDoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629344477299-0nvl9m34htn3ip4hgbs0k2l5rdarubc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnL2tbRdAkaees9T6_A_Xpv_L__p7YhwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629344477299-0nvl9m34htn3ip4hgbs0k2l5rdarubc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
